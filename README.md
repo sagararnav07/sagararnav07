@@ -8,8 +8,8 @@
 
 <img src = "https://github.com/sagararnav07/Whatsapp_chat_sentiment_analysis/blob/main/Arnav-Sagar.png?raw=true">
 
-😎 Connect with me
-## 🔗 Links
+ 
+## 🔗 Links to Connect with me 😎🤖
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-sagar-88b03a291/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/arnav_sagar07)
