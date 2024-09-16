@@ -1,9 +1,9 @@
 # Hi there, I'm Arnav! 👋
 
 - 🌱 I'm currently doing DevOps and Full Stack Dev in MERN 
-- 👨‍💻 All of my projects are available [here](https://github.com/sagararnav07)
+- 👨‍💻 All of my projects are available [here](https://arnav-portfolio.vercel.app/)
 - ✍️ Sometime I also write articles on [Hashnode](https://hashnode.com/@Arnav07) 
-- 📫 Reach me @ arnav.07.sagar@gmail.com
+- 📫 Reach me @ arnav.07.sagar@gmail.com or [here](https://arnav-portfolio.vercel.app/)
 - ⚽️ Love to play!!!!!
 
 <img src = "https://github.com/sagararnav07/Whatsapp_chat_sentiment_analysis/blob/main/Arnav-Sagar.png?raw=true">
